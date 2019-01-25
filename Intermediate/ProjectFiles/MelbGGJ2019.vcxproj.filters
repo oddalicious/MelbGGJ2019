@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MelbGGJ2019.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{9E95DC5B-71C9-42CC-BDA0-5B9D9112897A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MelbGGJ2019.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MelbGGJ2019Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{02ADBB7A-A0B4-4266-A691-77302E75F8BB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MelbGGJ2019">
+			<UniqueIdentifier>{9511FB3F-A34A-4FE1-86D8-B18AA83FC973}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MelbGGJ2019\MelbGGJ2019.Build.cs">
+			<Filter>Source\MelbGGJ2019</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MelbGGJ2019\MelbGGJ2019.cpp">
+			<Filter>Source\MelbGGJ2019</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MelbGGJ2019\MelbGGJ2019.h">
+			<Filter>Source\MelbGGJ2019</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MelbGGJ2019\MelbGGJ2019GameModeBase.cpp">
+			<Filter>Source\MelbGGJ2019</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MelbGGJ2019\MelbGGJ2019GameModeBase.h">
+			<Filter>Source\MelbGGJ2019</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
