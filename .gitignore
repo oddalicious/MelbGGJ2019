@@ -1,4 +1,5 @@
 # Visual Studio 2015 user specific files
+.vs/
 
 # Visual Studio 2015 database file
 *.VC.db
@@ -37,7 +38,7 @@
 *.xcodeproj
 *.xcworkspace
 *.sln
-
+*.suo
 *.opensdf
 *.sdf
 *.VC.db
@@ -71,9 +72,6 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
-!Intermediate/ProjectFiles*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-!MelbGGJ2019.sln
