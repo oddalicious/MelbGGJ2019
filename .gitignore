@@ -1,5 +1,4 @@
 # Visual Studio 2015 user specific files
-.vs/
 
 # Visual Studio 2015 database file
 *.VC.db
@@ -75,3 +74,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+!MelbGGJ2019.sln
