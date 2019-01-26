@@ -1,5 +1,4 @@
 *rock_2.uasset filter=lfs diff=lfs merge=lfs -text
-*Australia.umap filter=lfs diff=lfs merge=lfs -text
  filter=lfs diff=lfs merge=lfs -text
 *clouds_voronoi.uasset filter=lfs diff=lfs merge=lfs -text
 *clouds_classic.uasset filter=lfs diff=lfs merge=lfs -text
